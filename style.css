@@ -1,0 +1,60 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+.bgimage {
+ width: 100%;
+ height: 100vh;
+
+ background-image: url('img.jpg');
+ background-repeat: repeat-y;
+ background-size: 100% 100%;
+ background-attachment: fixed;
+}
+
+.bgimage1 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('goa.png');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage2 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('him.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   }
+
+   .bgimage3 {
+    width: 100%;
+    height: 100vh;
+   
+    background-image: url('raj.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+   } 
+ 
+
+/* div {
+    background-color: green;
+}
+
+div.first {
+    opacity: 0.1;
+}
+
+div.sec {
+    opacity: 0.2;
+}
+
+div.th {
+    opacity: 0.3;
+} */
